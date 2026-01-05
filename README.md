@@ -7,19 +7,19 @@ This project focuses on analyzing e-commerce sales and operational performance u
 It covers data cleaning, KPI design, dashboard development, and business insight generation.
                                                  
 ## 🧰 Tools Used  
-- Microsoft Excel
-- Pivot Tables
-- Slicers
+- Microsoft Excel                                                                           
+- Pivot Tables                                                                                    
+- Slicers                                                           
 - Data Cleaning & Transformation
-- KPI Design
-- Dashboard Visualization
+- KPI Design                                                        
+- Dashboard Visualization                                                                                
                                      
 ## 📊 Key KPIs 
-- Revenue
+- Revenue                                                                             
 - Order Volume
 - Quantity Sold
 - Delivery Efficiency
-- Customer Rating
+- Customer Rating                                                                          
 - Channel Performance
 
 ## 🧠 Insights Generated   
