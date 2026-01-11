@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Operations-Analytics     
+# E-Commerce-Sales-Operations-Analytics                                                                                                              
 End-to-end Excel data analytics project analyzing e-commerce sales & amp; operations with dashboards, KPIs, and business insights.                                                   
 # E-Commerce Sales & Operations Analytics                                                                                                                
                                                                                                                                                                                                                     
@@ -9,7 +9,7 @@ It covers data cleaning, KPI design, dashboard development, and business insight
 ## 🧰 Tools Used                                                       
 - Microsoft Excel                                                                                                                                                                                          
 - Pivot Tables                                                                                    
-- Slicers                                                                                                                                                               
+- Slicers                                                                                                                                                                                                    
 - Data Cleaning & Transformation
 - KPI Design                                                                                                                                                                                    
 - Dashboard Visualization                                                                                
@@ -24,7 +24,7 @@ It covers data cleaning, KPI design, dashboard development, and business insight
 
 ## 🧠 Insights Generated   
 - Identified top-performing sales channels                                                                                      
-- Analyzed delivery performance across regions
+- Analyzed delivery performance across regions                                                          
 - Tracked customer behavior patterns                                                                 
 - Highlighted product category performance                             
                                                          
@@ -32,7 +32,8 @@ It covers data cleaning, KPI design, dashboard development, and business insight
 - `data/` – Raw & cleaned datasets  
 - `dashboard/` – Final interactive Excel dashboard                                                                   
 - `documentation/` – Project summary & notes                                                                          
-- `screenshots/` – Visual previews of analysis
+- `screenshots/` – Visual previews of analysis                                                                   
                               
-# 🧑‍💻Author                                                                   
+# 🧑‍💻Author                                                                                                         
 Dev Aditya                                                                                                                                                      
+                                                                 
