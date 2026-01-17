@@ -4,8 +4,7 @@ End-to-end Excel data analytics project analyzing e-commerce sales & amp; operat
                                                                                                                                                                                                                     
 ## 📌 Project Overview      
 This project focuses on analyzing e-commerce sales and operational performance using Excel.                                                                      
-It covers data cleaning, KPI design, dashboard development, and business insight generation.                                                                                                                   
-                                                                                                                                                                 
+It covers data cleaning, KPI design, dashboard development, and business insight generation.                                                                                                                                                                                                                                                                                              
 ## 🧰 Tools Used                                                                                            
 - Microsoft Excel                                                                                                                                                                                                    
 - Pivot Tables                                                                                    
@@ -14,7 +13,7 @@ It covers data cleaning, KPI design, dashboard development, and business insight
 - KPI Design                                                                                                                                                                                             
 - Dashboard Visualization                                                                                                                               
                                                                                                                    
-## 📊 Key KPIs                                                               
+## 📊 Key KPIs                                                                      
 - Revenue                                                                                                                                                                                                       
 - Order Volume
 - Quantity Sold                                                
