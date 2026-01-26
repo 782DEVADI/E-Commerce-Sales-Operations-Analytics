@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Operations-Analytics                                                                                                                                                    
+# E-Commerce-Sales-Operations-Analytics                                                                                                                                                                     
 End-to-end Excel data analytics project analyzing e-commerce sales & amp; operations with dashboards, KPIs, and business insights.                                                                                       
 # E-Commerce Sales & Operations Analytics                                                                                                                                                                                                                                                                                                                             
                                                                                                                                                                                                                     
@@ -9,7 +9,7 @@ It covers data cleaning, KPI design, dashboard development, and business insight
 - Microsoft Excel                                                                                                                                                                                              
 - Data Cleaning & Transformation
 - KPI Design                                                                                                                                                                                             
-- Dashboard Visualization                                                                                                                               
+- Dashboard Visualization                                                                                                                                                                           
                                                                                                                    
 ## 📊 Key KPIs                                                                      
 - Revenue                                                                                                                                                                                                       
@@ -18,7 +18,7 @@ It covers data cleaning, KPI design, dashboard development, and business insight
 - Delivery Efficiency                                                                    
 - Customer Rating                                                                          
 - Channel Performance
-
+                                        
 ## 🧠 Insights Generated   
 - Identified top-performing sales channels                                                                                      
 - Analyzed delivery performance across regions                                                          
