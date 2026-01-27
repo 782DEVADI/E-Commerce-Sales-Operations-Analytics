@@ -1,5 +1,5 @@
 # E-Commerce-Sales-Operations-Analytics                                                                                                                                                                     
-End-to-end Excel data analytics project analyzing e-commerce sales & amp; operations with dashboards, KPIs, and business insights.                                                                                       
+End-to-end Excel data analytics project analyzing e-commerce sales & amp; operations with dashboards, KPIs, and business insights.                                                                              
 # E-Commerce Sales & Operations Analytics                                                                                                                                                                                                                                                                                                                             
                                                                                                                                                                                                                     
 ## 📌 Project Overview      
@@ -12,7 +12,7 @@ It covers data cleaning, KPI design, dashboard development, and business insight
 - Dashboard Visualization                                                                                                                                                                           
                                                                                                                    
 ## 📊 Key KPIs                                                                      
-- Revenue                                                                                                                                                                                                       
+- Revenue                                                                                                                                                                                           
 - Order Volume
 - Quantity Sold                                                
 - Delivery Efficiency                                                                    
