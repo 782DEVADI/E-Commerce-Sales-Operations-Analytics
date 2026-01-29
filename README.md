@@ -26,11 +26,11 @@ It covers data cleaning, KPI design, dashboard development, and business insight
 - Highlighted product category performance                             
                                                          
 ## 📁 Project Structure                                                            
-- `data/` – Raw & cleaned datasets  
-- `dashboard/` – Final interactive Excel dashboard                                                                   
+- `data/` – Raw & cleaned datasets                                                               
+- `dashboard/` – Final interactive Excel dashboard                                                                                                                             
 - `documentation/` – Project summary & notes                                                                          
 - `screenshots/` – Visual previews of analysis                                                                                                                                 
                               
-# 🧑‍💻Author                                                                                                                                        
-Dev Aditya                                                                                                                                                      
+# 🧑‍💻Author                                                                                                                                                                                            
+Dev Aditya                                                                                                                                                                                                
                                                                  
