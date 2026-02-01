@@ -3,22 +3,22 @@ End-to-end Excel data analytics project analyzing e-commerce sales & amp; operat
 # E-Commerce Sales & Operations Analytics                                                                                                                                                                                                                                                                                                                                                     
                                                                                                                                                                                                                     
 ## 📌 Project Overview                                         
-This project focuses on analyzing e-commerce sales and operational performance using Excel.                                                                                                                  
+This project focuses on analyzing e-commerce sales and operational performance using Excel.                                                                                                                 
 It covers data cleaning, KPI design, dashboard development, and business insight generation.                                                                                                                                                                                                                                                                                                                                         
-## 🧰 Tools Used                                                                                            
-- Microsoft Excel                                                                                                                                                                                              
+## 🧰 Tools Used                                                                                                                                                  
+- Microsoft Excel                                                                                                                                                                                          
 - Data Cleaning & Transformation               
 - KPI Design                                                                                                                                                                                                         
-- Dashboard Visualization                                                                                                                                                                                        
+- Dashboard Visualization                                                                                                                                                                                 
                                                                                                                    
 ## 📊 Key KPIs                                                                      
 - Revenue                                                                                                                                                                                           
 - Order Volume
 - Quantity Sold                                                
-- Delivery Efficiency                                                                                        
-- Customer Rating                                                                                            
-- Channel Performance
-                                        
+- Delivery Efficiency                                                                                                                   
+- Customer Rating                                                                                                                      
+- Channel Performance                                                                                             
+                                                                            
 ## 🧠 Insights Generated   
 - Identified top-performing sales channels                                                                                      
 - Analyzed delivery performance across regions                                                          
