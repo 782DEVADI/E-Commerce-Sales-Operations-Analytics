@@ -4,24 +4,24 @@ End-to-end Excel data analytics project analyzing e-commerce sales & amp; operat
                                                                                                                                                                                                                     
 ## 📌 Project Overview                                         
 This project focuses on analyzing e-commerce sales and operational performance using Excel.                                                                                                                 
-It covers data cleaning, KPI design, dashboard development, and business insight generation.                                                                                                                                                                                                                                                                                                                                     
+It covers data cleaning, KPI design, dashboard development, and business insight generation.                                                                                                                                                                                                                                                                                                                                                                                                   
 ## 🧰 Tools Used                                                                                                                                                  
-- Microsoft Excel                                                                                                                                                                                          
+- Microsoft Excel                                                                                                                                                                                         
 - Data Cleaning & Transformation               
 - KPI Design                                                                                                                                                                                                         
 - Dashboard Visualization                                                                                                                                                                                 
                                                                                                                    
-## 📊 Key KPIs                                                                      
+## 📊 Key KPIs                                                                                              
 - Revenue                                                                                                                                                                                           
-- Order Volume
+- Order Volume                                                        
 - Quantity Sold                                                
-- Delivery Efficiency                                                                                                                                                         
+- Delivery Efficiency                                                                                                                                                                                  
 - Customer Rating                                                                                                                      
 - Channel Performance                                                                                             
                                                                             
 ## 🧠 Insights Generated   
 - Identified top-performing sales channels                                                                                      
-- Analyzed delivery performance across regions                                                                                                     
+- Analyzed delivery performance across regions                                                                                                                                                
 - Tracked customer behavior patterns                                                                 
 - Highlighted product category performance                             
                                                          
