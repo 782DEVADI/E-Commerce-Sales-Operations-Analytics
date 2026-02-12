@@ -3,18 +3,18 @@ End-to-end Excel data analytics project analyzing e-commerce sales & amp; operat
 # E-Commerce Sales & Operations Analytics                                                                                                                                                                                                                                                                                                                         
                                                                                                                                                                                                                     
 ## 📌 Project Overview                                         
-This project focuses on analyzing e-commerce sales and operational performance using Excel.                                                                                                              
-It covers data cleaning, KPI design, dashboard development, and business insight generation.                                                                                                                                                                                                                                                                                                                                                                                                   
-## 🧰 Tools Used                                                                                                                                                                                      
+This project focuses on analyzing e-commerce sales and operational performance using Excel.                                                                                                               
+It covers data cleaning, KPI design, dashboard development, and business insight generation.                                                                                                                                                                                                                                                                                                                                                                                                                        
+## 🧰 Tools Used                                                                                                                                                                                         
 - Microsoft Excel                                                                                                                                                                                         
 - Data Cleaning & Transformation                                                                   
 - KPI Design                                                                                                                                                                                                         
 - Dashboard Visualization                                                                                                                                                                                   
                                                                                                                    
-## 📊 Key KPIs                                                                                              
+## 📊 Key KPIs                                                                                                                                           
 - Revenue                                                                                                                                                                                           
-- Order Volume                                                        
-- Quantity Sold                                                
+- Order Volume                                                                          
+- Quantity Sold                                                                     
 - Delivery Efficiency                                                                                                                                                                                  
 - Customer Rating                                                                                                                                         
 - Channel Performance                                                                                                                                                    
@@ -22,12 +22,12 @@ It covers data cleaning, KPI design, dashboard development, and business insight
 ## 🧠 Insights Generated   
 - Identified top-performing sales channels                                                                                                                              
 - Analyzed delivery performance across regions                                                                                                                                                             
-- Tracked customer behavior patterns                                                                                                                                           
-- Highlighted product category performance                             
+- Tracked customer behavior patterns                                                                                                                                                                                 
+- Highlighted product category performance                                                                      
                                                          
 ## 📁 Project Structure                                                            
-- `data/` – Raw & cleaned datasets                                                                                   
-- `dashboard/` – Final interactive Excel dashboard                                                                                                                             
+- `data/` – Raw & cleaned datasets                                                                                                     
+- `dashboard/` – Final interactive Excel dashboard                                                                                                                                                        
 - `documentation/` – Project summary & notes                                                                                                                                                          
 - `screenshots/` – Visual previews of analysis                                                                                                                                                           
                                                 
