@@ -1,10 +1,10 @@
-# E-Commerce-Sales-Operations-Analytics                                                                                                                                                                    
+# E-Commerce-Sales-Operations-Analytics                                                                                                                                                                  
 End-to-end Excel data analytics project analyzing e-commerce sales & amp; operations with dashboards, KPIs, and business insights.                                                                                
 # E-Commerce Sales & Operations Analytics                                                                                                                                                                                                                                                                                                                         
                                                                                                                                                                                                                     
 ## 📌 Project Overview                                         
-This project focuses on analyzing e-commerce sales and operational performance using Excel.                                                                                                            
-It covers data cleaning, KPI design, dashboard development, and business insight generation.                                                                                                                                                                                                                                                                                                                                                                                                                        
+This project focuses on analyzing e-commerce sales and operational performance using Excel.                                                                                                                 
+It covers data cleaning, KPI design, dashboard development, and business insight generation.                                                                                                                                                                                                                                                                                                                                                                                                                                           
 ## 🧰 Tools Used                                                                                                                                                                                         
 - Microsoft Excel                                                                                                                                                                                         
 - Data Cleaning & Transformation                                                                   
@@ -14,8 +14,8 @@ It covers data cleaning, KPI design, dashboard development, and business insight
 ## 📊 Key KPIs                                                                                                                                                                                                     
 - Revenue                                                                                                                                                                                                            
 - Order Volume                                                                                           
-- Quantity Sold                                                                                  
-- Delivery Efficiency                                                                                                                                                                                    
+- Quantity Sold                                                                                          
+- Delivery Efficiency                                                                                                                                                                                   
 - Customer Rating                                                                                                                                                                   
 - Channel Performance                                                                                                                                                                                       
                                                                             
